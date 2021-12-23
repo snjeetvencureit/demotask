@@ -1,0 +1,8 @@
+For Laravel
+php artisan migrate:fresh --seed
+php artisan passport:install
+php artisan key:generate
+
+For Vue
+npm install
+npm run serve
